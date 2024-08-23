@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and Tensorflow**
 
-- 📫 How to reach me **ashwin.stratton@hotmail.com**
+- 📫 How to reach me **ashwinestratton@gmail.com**
 
 
 <p align="left">
