@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Stratton</h1>
-<h3 align="center">A passionate Data Engineer from Charlotte, NC</h3>
+<h3 align="center">A passionate Data Analyst from Minnesota</h3>
 
 - 🌱 I’m currently learning **React, TypeScript, and Tensorflow**
 
